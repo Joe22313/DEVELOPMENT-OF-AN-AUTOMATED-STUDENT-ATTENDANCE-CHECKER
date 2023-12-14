@@ -1,4 +1,4 @@
-<img src=".erb/img/erb-banner.svg" width="100%" />
+<img src="https://scontent.fcrk1-5.fna.fbcdn.net/v/t1.15752-9/386765771_6620531751372215_1938958170195656124_n.png?_nc_cat=104&ccb=1-7&_nc_sid=8cd0a2&_nc_eui2=AeEy3dJRePjHX6G6i0urhbW96fVFxohXR7Hp9UXGiFdHsWwLZwwc_7dQv4N4-Jlv2Ri3AyIQJjGKMrWEXEDuwrMn&_nc_ohc=nGtLLhf6yjYAX-_x4jM&_nc_ht=scontent.fcrk1-5.fna&oh=03_AdTpeFGbmAd0PDOmQDSCQRdXak1XsgQWdct-IKtfaxhykA&oe=65A2A326" width="100%" />
 
 <br>
 
